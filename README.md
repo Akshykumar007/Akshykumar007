@@ -1,4 +1,4 @@
-<marquee width="100%" direction="left" behavior="scroll" scrollamount="4"><h1 align="center">Hi 👋, I'm Akshykumar Bhiva Mote</h1></marquee>
+<marquee width="100%" direction="left" behavior="scroll" scrollamount="4"><h1 align="center">Hi 👋, I'm Akshykumar Bhiva Mote</h1> </marquee>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshykumar007" alt="akshykumar007" /></a> </p>
 
