@@ -1,57 +1,30 @@
-# 👋 Hi, I'm Akshykumar Bhiva Mote!  
+<h1 align="center">Hi 👋, I'm Akshykumar Bhiva Mote</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm a passionate **Software Engineer** with over 3 years of experience specializing in both **frontend** and **backend development**. I thrive on solving complex problems and delivering high-quality software solutions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshykumar007" alt="akshykumar007" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/bhivamote" target="blank"><img src="https://img.shields.io/twitter/follow/bhivamote?logo=twitter&style=for-the-badge" alt="bhivamote" /></a> </p>
 
-## 🛠️ Technical Skills
+- 🔭 I’m currently working on **Adenza India Pvt Ltd**
 
-- **Languages:** Java, JavaScript, PHP, SQL, Swing  
-- **Frameworks & Tools:** React JS, Node JS, Laravel, CodeIgniter  
-- **Databases:** MongoDB, MySQL, Oracle  
-- **Other Tools:** GitHub, HTML, CSS, REST API, Advanced Java  
+- 🌱 I’m currently learning **React Js,Spring Boot**
 
----
+- 🤝 I’m looking for help with **React JS, Spring Boot and Devops**
 
-## 💼 Professional Experience
+- 💬 Ask me about **Java,MySQL,Python,HTML,CSS**
 
-**Associate Software Engineer**  
-_Adenza India Private Ltd_  
-**05/2022 - Present**  
-- Developed enterprise banking applications using Java.  
-- Designed and implemented REST APIs for backend integration.  
-- Resolved bugs and optimized performance for client-specific solutions.  
+- 📫 How to reach me **akshykumarb51@gmail.com**
 
-**Software Developer**  
-_Ascent Consulting Services Pvt Ltd_  
-**09/2021 - 04/2022**  
-- Built and maintained software solutions using Java and web technologies.  
-- Collaborated with cross-functional teams to enhance project outcomes.  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UxBqG44TyTB87v7owU-DKYJUysAxjw-P/view?usp=sharing](https://drive.google.com/file/d/1UxBqG44TyTB87v7owU-DKYJUysAxjw-P/view?usp=sharing)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bhivamote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhivamote" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshykumar-bhiva-mote-2195201a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshykumar-bhiva-mote-2195201a1/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/akshykumar_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshykumar_10/" height="30" width="40" /></a>
+</p>
 
-## 🎓 Education & Certifications
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-- **Bachelor of Engineering (CSE)**  
-  Kongu Engineering College, Tamil Nadu  
-  _08/2018 - 06/2022_  
-- **OCJPA Certification**: Advanced Java, design patterns, generics.  
-- **HDCA Certification**: Computer fundamentals, HTML, CSS, JavaScript.
-
----
-
-## 📂 Projects
-
-- **Calypso Product** (07/2022 - 08/2023)  
-  Upgraded features and optimized an asset management application for financial services.  
-
-- **Payroll Management System** (10/2021 - 03/2022)  
-  Developed a payroll management website with ReactJS, PHP, Laravel, and CodeIgniter.  
-
----
-
-## 📫 Connect With Me!
-
-- [GitHub](https://github.com/Akshykumar007/)  
-- [LinkedIn](https://www.linkedin.com/in/akshykumar-bhiva-mote-2195201a1/)  
-- **Email:** akshykumarb51@gmail.com  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshykumar007&show_icons=true&locale=en&layout=compact" alt="akshykumar007" /></p>
