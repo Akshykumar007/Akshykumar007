@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshykumar Bhiva Mote</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full Stack Developer passionate about creating scalable and efficient web applications. With expertise in both frontend and backend development, I enjoy building solutions that are as functional as they are visually appealing.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshykumar007" alt="akshykumar007" /></a> </p>
 
